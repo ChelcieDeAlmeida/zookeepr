@@ -148,6 +148,24 @@
     },
     {
       "id": "15"
+    },
+    {
+      "name": "Chelcie",
+      "species": "Bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Joey",
+      "species": "Mole",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
     }
   ]
 }
